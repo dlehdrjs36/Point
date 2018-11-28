@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2018 dlehdrjs36
+Copyright (c) [dlehdrjs36](https://github.com/dlehdrjs36) <slsldkf1234@gmail.com>
+
+Project Url: https://github.com/dlehdrjs36/Point
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +21,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
  
