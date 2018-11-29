@@ -173,6 +173,6 @@ Here is a working live demo :  [Link]()
 [오상민](https://github.com/) |[박준형](https://github.com/) |[이동건](https://github.com/dlehdrjs36) 
 
 <br><br>
-## [License](https://github.com/dlehdrjs36/travel/blob/master/LICENSE.md)
+## [License](https://github.com/dlehdrjs36/Point/blob/master/LICENSE.md)
 
 MIT ©[dlehdrjs36](https://github.com/dlehdrjs36)
